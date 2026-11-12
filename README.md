@@ -91,7 +91,7 @@ PDF-Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PDF-Analyzer.git
+git clone https://github.com/rishabhsharma111/PDF-Analyzer.git
 cd PDF-Analyzer
 ```
 
